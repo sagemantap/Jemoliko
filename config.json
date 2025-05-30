@@ -16,7 +16,7 @@
   "background": false,
   "bind": [
     {
-      "host": "206.189.87.80",
+      "host": "103.150.221.231",
       "port": 1863,
       "tls": false
     },
@@ -36,7 +36,7 @@
       "algo": null,
       "url": "eu.hashvault.pro:443",
       "user": "88B9kE1QUVvKNMYs23F2yUToYsFiSBZvt46VmT8UEjN1GyNc18mntaSX5Sx13VX6834oWtsUoS7zeWzNQvCDRzeZJ2ZaoPF",
-      "pass": "Danis",
+      "pass": "Genzo",
       "rig-id": null,
       "keepalive": false,
       "enabled": true,
