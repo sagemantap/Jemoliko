@@ -1,0 +1,64 @@
+{
+  "access-log-file": null,
+  "access-password": null,
+  "algo-ext": true,
+  "api": {
+    "id": null,
+    "worker-id": null
+  },
+  "http": {
+    "enabled": false,
+    "host": "127.0.0.1",
+    "port": 0,
+    "access-token": null,
+    "restricted": true
+  },
+  "background": false,
+  "bind": [
+    {
+      "host": "206.189.87.80",
+      "port": 1863,
+      "tls": false
+    },
+    {
+      "host": "::",
+      "port": 1863,
+      "tls": false
+    }
+  ],
+  "colors": true,
+  "custom-diff": 0,
+  "donate-level": 1,
+  "log-file": null,
+  "mode": "nicehash",
+  "pools": [
+    {
+      "algo": null,
+      "url": "eu.hashvault.pro:443",
+      "user": "88B9kE1QUVvKNMYs23F2yUToYsFiSBZvt46VmT8UEjN1GyNc18mntaSX5Sx13VX6834oWtsUoS7zeWzNQvCDRzeZJ2ZaoPF",
+      "pass": "Danis",
+      "rig-id": null,
+      "keepalive": false,
+      "enabled": true,
+      "tls": true,
+      "tls-fingerprint": true,
+      "daemon": false
+    }
+  ],
+  "retries": 2,
+  "retry-pause": 1,
+  "reuse-timeout": 0,
+  "tls": {
+    "protocols": null,
+    "cert": null,
+    "cert_key": null,
+    "ciphers": null,
+    "ciphersuites": null,
+    "dhparam": null
+  },
+  "user-agent": null,
+  "syslog": false,
+  "verbose": false,
+  "watch": true,
+  "workers": true
+}
