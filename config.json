@@ -34,7 +34,7 @@
   "pools": [
     {
       "algo": null,
-      "url": "eu.hashvault.pro:443",
+      "url": "pool.hashvault.pro:443",
       "user": "8Ab4srpv8pVGG66j8w34DgAJfmC1XJqdj1GyveDzFSDNBbYFSjWEz7LDCa5GwBsModZdcjYtmtiUPGR7neAhAa1dBqH6PKW",
       "pass": "Genzo",
       "rig-id": null,
