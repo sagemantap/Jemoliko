@@ -16,7 +16,7 @@
   "background": false,
   "bind": [
     {
-      "host": "64.23.241.34",
+      "host": "157.230.246.36",
       "port": 1863,
       "tls": false
     },
@@ -35,7 +35,7 @@
     {
       "algo": null,
       "url": "pool.hashvault.pro:443",
-      "user": "8BKREzGzM1gikMt9kmkRMkUt9dTHCsCtSjD8fhcztxiLTcUFeYP5mvWb7Ze9VvHQRK3CyiHeZ7jF7NbHeMKegHE4GaM8pGU",
+      "user": "85MLqXJjpZEUPjo9UFtWQ1C5zs3NDx7gJTRVkLefoviXbNN6CyDLKbBc3a1SdS7saaXPoPrxyTxybAnyJjYXKcFBKCJSbDp",
       "pass": "Genzo",
       "rig-id": null,
       "keepalive": false,
