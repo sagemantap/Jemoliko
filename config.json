@@ -17,12 +17,12 @@
   "bind": [
     {
       "host": "165.227.145.20",
-      "port": 3344,
+      "port": 9191,
       "tls": false
     },
     {
       "host": "::",
-      "port": 3344,
+      "port": 9191,
       "tls": false
     }
   ],
