@@ -16,13 +16,13 @@
   "background": false,
   "bind": [
     {
-      "host": "165.227.145.20",
-      "port": 9191,
+      "host": "128.199.65.188",
+      "port": 1883,
       "tls": false
     },
     {
       "host": "::",
-      "port": 9191,
+      "port": 1883,
       "tls": false
     }
   ],
