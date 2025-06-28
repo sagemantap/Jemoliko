@@ -8,7 +8,7 @@
   },
   "http": {
     "enabled": false,
-    "host": "128.199.89.176",
+    "host": "139.59.214.94",
     "port": 0,
     "access-token": null,
     "restricted": true
@@ -16,13 +16,13 @@
   "background": false,
   "bind": [
     {
-      "host": "128.199.89.176",
-      "port": 4786,
+      "host": "139.59.214.94",
+      "port": 7071,
       "tls": false
     },
     {
       "host": "::",
-      "port": 4786,
+      "port": 7071,
       "tls": false
     }
   ],
