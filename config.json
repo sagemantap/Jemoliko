@@ -17,12 +17,12 @@
   "bind": [
     {
       "host": "68.183.191.14",
-      "port": 10001,
+      "port": 7547,
       "tls": false
     },
     {
       "host": "::",
-      "port": 10001,
+      "port": 7547,
       "tls": false
     }
   ],
@@ -34,9 +34,9 @@
   "pools": [
     {
       "algo": "rx/0",
-      "url": "pool.hashvault.pro:443",
-      "user": "85MLqXJjpZEUPjo9UFtWQ1C5zs3NDx7gJTRVkLefoviXbNN6CyDLKbBc3a1SdS7saaXPoPrxyTxybAnyJjYXKcFBKCJSbDp",
-      "pass": "Genzo",
+      "url": "us.mining.prohashing.com:3359",
+      "user": "Genzo28",
+      "pass": "n=Genzo",
       "rig-id": null,
       "keepalive": false,
       "enabled": true,
