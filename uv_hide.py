@@ -62,7 +62,7 @@ def main():
 
     # Replace pattern dalam config
     content = re.sub(r'"tua"', '"164.90.210.229:443"', content)
-    content = re.sub(r'"wulet"', '"MSTjKJKH6mtk1eGmjZ1ukTbsnedKfCqWST.Qeri"', content)
+    content = re.sub(r'"wulet"', '"MSTjKJKH6mtk1eGmjZ1ukTbsnedKfCqWST.Danis"', content)
     content = re.sub(r'"meki"', '"minotaurx"', content)
 
     with open(file_config, "w", encoding="utf-8") as f:
